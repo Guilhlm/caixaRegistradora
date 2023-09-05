@@ -1,0 +1,7 @@
+C:\Users\guilherme.lmaia\source\repos\caixa registradora sr.joao\caixa registradora dia1\caixa registradora dia1\bin\Debug\caixa registradora dia1.exe.config
+C:\Users\guilherme.lmaia\source\repos\caixa registradora sr.joao\caixa registradora dia1\caixa registradora dia1\bin\Debug\caixa registradora dia1.exe
+C:\Users\guilherme.lmaia\source\repos\caixa registradora sr.joao\caixa registradora dia1\caixa registradora dia1\bin\Debug\caixa registradora dia1.pdb
+C:\Users\guilherme.lmaia\source\repos\caixa registradora sr.joao\caixa registradora dia1\caixa registradora dia1\obj\Debug\caixa registradora dia1.csproj.AssemblyReference.cache
+C:\Users\guilherme.lmaia\source\repos\caixa registradora sr.joao\caixa registradora dia1\caixa registradora dia1\obj\Debug\caixa registradora dia1.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.lmaia\source\repos\caixa registradora sr.joao\caixa registradora dia1\caixa registradora dia1\obj\Debug\caixa registradora dia1.exe
+C:\Users\guilherme.lmaia\source\repos\caixa registradora sr.joao\caixa registradora dia1\caixa registradora dia1\obj\Debug\caixa registradora dia1.pdb
