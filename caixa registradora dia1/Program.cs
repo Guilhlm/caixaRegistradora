@@ -14,7 +14,7 @@ namespace caixa_registradora_dia1
             string Cadastro, infotipo, infopreco, infopeso;
             menuloop = 1;
             loop = 1;
-            string produto1 = " ", produto2 = " ", produto3 = " ", produto4 = " . ";
+            string produto1 = " ", produto2 = " ", produto3 = " ", produto4 = "  ";
             int quantidade1 = 10, quantidade2 = 20, quantidade3 = 33, quantidade4 = 230;
             int valor1 = 4, valor2 = 9, valor3 = 10, valor4 = 1;
 
@@ -213,10 +213,13 @@ namespace caixa_registradora_dia1
 
                     Console.ForegroundColor = ConsoleColor.Gray;
 
+                    Console.WriteLine("");
+
                     break;
 
                     menu3 = int.Parse(Console.ReadLine());
 
+                    
 
                 }
                 else if (menu == 4)
@@ -356,7 +359,7 @@ namespace caixa_registradora_dia1
 
             }
 
-            Console.ForegroundColor = ConsoleColor.Green;
+            Console.ForegroundColor = ConsoleColor.DarkMagenta;
             Console.Write("PRESS ENTER TO FINISH");
             Console.ReadKey();
         }
